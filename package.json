@@ -1,5 +1,5 @@
 {
-  "name": "DFTemplateManager",
+  "name": "df-template-manager",
   "version": "0.1.0",
   "description": "A node.js module for the templates management",
   "main": "lib/index.js",
