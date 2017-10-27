@@ -1,6 +1,6 @@
 {
   "name": "df-template-manager",
-  "version": "0.1.1",
+  "version": "1.0.1",
   "description": "A node.js module for the templates management",
   "main": "lib/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "author": "Davide Fiorello <davide@codeflyer.com> (http://github.com/codeflyer/)",
   "license": "ISC",
   "dependencies": {
-    "watchr": "^3.0.1"
+    "watchr": "^2.4.13"
   },
   "devDependencies": {
     "config": "^1.27.0",
